@@ -48,7 +48,8 @@
             "Chatbot\\": "aliyun-php-sdk-chatbot/",
             "Ess\\": "aliyun-php-sdk-ess/",
             "CloudPhoto\\": "aliyun-php-sdk-cloudphoto/",
-            "Dds\\": "aliyun-php-sdk-dds/"
+            "Dds\\": "aliyun-php-sdk-dds/",
+            "Push\\": "aliyun-php-sdk-push/"
         }
     }
 }
